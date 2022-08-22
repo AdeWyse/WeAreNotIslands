@@ -29,11 +29,11 @@ Miscelaneous Lines for each Chracter:
 
 Anna:
 
- -Exploring is about discovering new things! Some are good and some are bad.
+ - Exploring is about discovering new things! Some are good and some are bad.
 
--You can explore in a lot of different ways: traveling, self reflection, doing art, getting lost, changing yourself, meeting new people…
+- You can explore in a lot of different ways: traveling, self reflection, doing art, getting lost, changing yourself, meeting new people…
 
--There is nothing wrong if you don’t want to explore scary things. Maybe in the future it won’t be so scary.​​
+- There is nothing wrong if you don’t want to explore scary things. Maybe in the future it won’t be so scary.​​
 
 Leila:
 
@@ -41,17 +41,19 @@ Leila:
 
 - Do I ever feel sad living alone on this island? Don’t be silly. I’m not alone.
 
--The first ever gift my partner gave was a purple flower. It’s my favorite flower ever.​​​
+- The first ever gift my partner gave was a purple flower. It’s my favorite flower ever.​​​
+
 Lily:
 
--This island is almost perfect. It is the best one to play hide and seek,  it doesn’t have any flowers.
+- This island is almost perfect. It is the best one to play hide and seek,  it doesn’t have any flowers.
 
-​-Everyone knows you can’t play with strangers. That’s why you need to make them not strangers anymore!
+- Everyone knows you can’t play with strangers. That’s why you need to make them not strangers anymore!
 
-​- I know all the best hiding spots!​
+- I know all the best hiding spots!​
+
 Hea:
 
--[Silence]
+- [Silence]
 
--[Low humming]
--[Loud headphones noise]
+- [Low humming]
+- [Loud headphones noise]
