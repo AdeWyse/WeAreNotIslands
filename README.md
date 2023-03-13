@@ -25,6 +25,12 @@ I had some problems with the rotation and movement of the NPCS, but that was mos
 Even with these problems I had a lot of fun with this project. It was my first time working with a tight schedule and I feel like it gives you a bigger motivation to sit and work on your game. I love the feeling of spending hours working on something and then seeing it come alive when you hit play.
 
 ​
+![Z0v1yg](https://user-images.githubusercontent.com/67238559/224705998-28042f57-9f9b-4578-acd5-0dea71f68e7b.png)
+![_hLBMZ](https://user-images.githubusercontent.com/67238559/224706001-d785ebcf-b802-46d7-a315-3991f7485808.png)
+![haB+Jf](https://user-images.githubusercontent.com/67238559/224706005-51d00d75-0246-4d7d-b80b-cd840745e213.png)
+![AJGqCB](https://user-images.githubusercontent.com/67238559/224706006-de4eea60-185c-4b2b-b40e-0f6e5be4db1a.png)
+
+
 Miscelaneous Lines for each Chracter:
 
 Anna:
@@ -57,3 +63,5 @@ Hea:
 
 - [Low humming]
 - [Loud headphones noise]
+
+
